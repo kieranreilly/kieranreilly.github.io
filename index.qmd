@@ -1,0 +1,16 @@
+---
+title: "Kieran Reilly"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/kieranreilly
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/kieran-reilly-458a8a357
+    - icon: inboxes
+      text: Contact
+      href: mailto:kieranr@uark.edu
+---
